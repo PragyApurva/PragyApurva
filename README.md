@@ -21,3 +21,5 @@
 
 ## :trophy: My Github Stats <br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PragyApurva&show_icons=true&theme=tokyonight) <br>
+
+  ![snake gif](https://github.com/shayan-cyber/shayan-cyber/blob/output/github-contribution-grid-snake.gif)
